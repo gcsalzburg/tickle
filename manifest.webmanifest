@@ -1,0 +1,15 @@
+{
+	"background_color": "#E04502",
+	"description": "Check thumb reach coverage of the screen",
+	"display": "fullscreen",
+	"icons": [
+	  {
+		 "src": "icon-192.png",
+		 "sizes": "192x192",
+		 "type": "image/png"
+	  }
+	],
+	"name": "Tickle",
+	"short_name": "Tickle",
+	"start_url": "/index.html"
+ }
